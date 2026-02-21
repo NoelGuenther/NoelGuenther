@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 GitHub Profile
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NoelGuenther&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoelGuenther&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p>
